@@ -1,4 +1,4 @@
-# Manual-TestCase-Projects - chaldal.com
+# Manual-TestCase-Projects
 
 
 ---
